@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddGraph",
+            "request": "launch",
+            "mainClass": "GraphPackage.AddGraph",
+            "projectName": "intiGraph(checkpoint 2 FINALE)_64a6f999"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddGraph",
+            "request": "launch",
+            "mainClass": "GraphPackage.AddGraph",
+            "projectName": "intiGraph(checkpoint 2 ver0.9)_f5e0511b"
+        }
+    ]
+}
