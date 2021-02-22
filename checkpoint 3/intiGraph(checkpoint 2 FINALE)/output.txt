@@ -1,0 +1,38 @@
+DISPLAY MATRIX 
+        0    1    2    3    4    5    6    7    8    9    
+
+  0     0    0    1    1    1    0    0    0    0    0    
+
+  1     0    0    0    0    1    1    0    0    0    0    
+
+  2     1    0    0    1    0    1    0    0    0    0    
+
+  3     1    0    1    0    0    0    0    0    0    0    
+
+  4     1    1    0    0    0    1    0    0    0    0    
+
+  5     0    1    1    0    1    0    0    0    0    0    
+
+  6     0    0    0    0    0    0    0    1    0    1    
+
+  7     0    0    0    0    0    0    1    0    1    0    
+
+  8     0    0    0    0    0    0    0    1    0    1    
+
+  9     0    0    0    0    0    0    1    0    1    0    
+
+Adjacent Vertices of every vertex: 
+Vertex 0 {a} - VISIT: false - ADJACENCY: 2, 3, 4
+Vertex 1 {b} - VISIT: false - ADJACENCY: 4, 5
+Vertex 2 {c} - VISIT: false - ADJACENCY: 0, 3, 5
+Vertex 3 {d} - VISIT: false - ADJACENCY: 0, 2
+Vertex 4 {e} - VISIT: false - ADJACENCY: 0, 1, 5
+Vertex 5 {f} - VISIT: false - ADJACENCY: 1, 2, 4
+Vertex 6 {g} - VISIT: false - ADJACENCY: 7, 9
+Vertex 7 {h} - VISIT: false - ADJACENCY: 6, 8
+Vertex 8 {i} - VISIT: false - ADJACENCY: 7, 9
+Vertex 9 {j} - VISIT: false - ADJACENCY: 6, 8
+
+DFS traversal: 0,2,3,5,1,4,6,7,8,9
+BFS traversal: 0,2,3,4,5,1,6,7,9,8
+Graph is not connected.
