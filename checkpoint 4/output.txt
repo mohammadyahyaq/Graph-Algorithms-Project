@@ -1,0 +1,7 @@
+"\nKruskal MST: 
+Edge from 1 to 2 has weight 1
+Edge from 4 to 5 has weight 2
+Edge from 0 to 1 has weight 3
+Edge from 1 to 5 has weight 4
+Edge from 3 to 5 has weight 5
+
