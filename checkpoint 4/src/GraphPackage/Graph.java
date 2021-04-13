@@ -10,9 +10,9 @@ import java.util.Arrays;
 /**
  *
  * @author nullExceptionTeam CPCS324 Project (2019-2020)
- * Member 1: Turki Alzubaidi (1740408)
- * Member 2: Ammar Joharji (1742559)
- * Member 3: Mohammad alghafli (1741679)
+ * Member 1: Turki Alzubaidi
+ * Member 2: Ammar Joharji 
+ * Member 3: Mohammad alghafli
  *
  */
 public class Graph  {
